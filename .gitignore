@@ -1,0 +1,5 @@
+config.toml
+.idea
+*.pyc
+token.txt
+venv
